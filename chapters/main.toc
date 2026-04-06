@@ -1,0 +1,5 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}相关研究综述}{2}{chapter.1}%
+\contentsline {subsection}{\numberline {1.0.1}侧方泊车相关研究现状}{2}{subsection.1.0.1}%
+\contentsline {subsection}{\numberline {1.0.2}贝塞尔曲线优化研究现状}{2}{subsection.1.0.2}%
+\contentsline {subsection}{\numberline {1.0.3}搜索与优化联合规划研究现状}{3}{subsection.1.0.3}%
+\contentsline {subsection}{\numberline {1.0.4}小结}{4}{subsection.1.0.4}%

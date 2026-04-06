@@ -1,0 +1,31 @@
+\documentclass[12pt,a4paper,openany]{ctexrep}
+
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{indentfirst}
+\usepackage[
+  backend=biber,
+  style=gb7714-2015,
+  gbnamefmt=lowercase
+]{biblatex}
+
+\addbibresource{../references/related_work_gap123.bib}
+
+\title{基于A*算法的运动路径规划优化}
+\author{}
+\date{\today}
+
+\begin{document}
+
+\onehalfspacing
+\maketitle
+\tableofcontents
+\clearpage
+
+\input{related_work_gap123}
+
+\clearpage
+\printbibliography[title={参考文献}]
+
+\end{document}
